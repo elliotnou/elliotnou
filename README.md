@@ -10,7 +10,7 @@
 
 ### about me
 
-i'm a computing & financial management student at the university of waterloo who likes building things at the intersection of AI and finance.
+hi! i'm elliot, a computing & financial management student at the university of waterloo who likes building things at the intersection of software and finance.
 ---
 
 
